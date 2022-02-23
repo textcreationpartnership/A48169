@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend in ansvver to the enquiry into the present state of affairs</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48169</idno>
+            <idno type="STC">Wing L1647</idno>
+            <idno type="STC">ESTC R218607</idno>
+            <idno type="EEBO-CITATION">99830184</idno>
+            <idno type="PROQUEST">99830184</idno>
+            <idno type="VID">34634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2033:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend in ansvver to the enquiry into the present state of affairs</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:34634:1" rendition="simple:additions"/>
+            <head>A LETTER to a Friend IN ANSWER TO THE <hi>Enquiry into the preſent State of Affairs.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Thank you for ſending me the <hi>Enquiry into the preſent State of Affairs;</hi> for I am very glad to find, that it is a queſtion ſtill, whether we ſhould treat with the King, and call him back, which I was afraid was quite out of doors; but the Zeal of this Author, who ſeems to be a dear Friend to Kings, to prove we ought not to treat, makes me hope, that a great many are of the mind we ſhould, and his Reaſons againſt it, I hope, will make a great many more of that mind. It is a great ſatisfaction to me, to find a Man, who ſeems neither to want Wit nor Words, not to be able to ſpeak common Senſe in this Argument.</p>
+            <p>There needs no other reaſon to prove, that we are bound in Conſcience to treat with our King, and to bring him back, if we can, than that he is our King ſtill; and therefore the Enquirer begins with this, to prove that he is no King, and if he can prove it, then fare him well. But how does he prove this? His Argument is, <hi>That the reciprocal Duties in Civil Societies, are Protection and Allegiance, and whereſoever the one fails wholly, the other falls with it,</hi> pag. 3. Now if the relation between King and Subjects did depend on their mutual Duties to each other, and not the Duties reſult from the antecedent Relation; there might be ſomewhat in this: But if the King be a King, not by governing well, but by Birth-right, and an hereditary Succeſſion, he no more ceaſes to be a King by governing ill (as far as this reaſon goes) than a Subject, who is a Traitor and Rebel, ceaſes to be a Subject; the Relation continues, tho the Duty fails, becauſe the Duty is not the Foundation of the Relation, but a moral Obligation reſulting from the Relation.</p>
+            <p>But, I confeſs, I thought the Enquirer mad, when I found he would prove this from the paternal Relation, and abſolve Sons from all Duty and Obedience, <hi>When a Father ceaſes to be a Father by be<g ref="char:EOLhyphen"/>coming an Enemy.</hi> For this is ſo ſenſible a Confutation of his Maxim, that every Father underſtands it. A Father can never ceaſe to be a Father, how great a Tyrant ſoever he be; nor can a Son ever ceaſe to be a Son, or to owe the Duty of a Son to his Father; he is not indeed bound to obey his Father to his own apparent Ruine and Deſtruction, but he is bound to pay all the Duty of a Son to him, as far as he can; and if the Father ever return to a better Mind, the Relation is not diſſolved, nor new made by it. As Fathers like our Caſuiſt in this, let them ſwallow the reſt, only remembring, that their Sons may deal by them, as they deal by thier King.</p>
+            <p>But I can pardon his hardineſs in this, when I find he ventures upon S. <hi>Paul,</hi> and hopes to prove the Doctrin of Depoſing Kings, from 13. <hi>Rom.</hi> read the firſt ſeven Verſes at leiſure, and judg of the Enquirers Comment; I ſhall only obſerve the Apoſtle aſſigns the reaſon and foundation of our Obedience, and gives a motive to it; the reaſon is, that <hi>the powers that be are ordained of God,
+<pb n="2" facs="tcp:34634:2"/>and he that reſiſteth the power, reſiſteth the ordinance of God,</hi> and muſt be damn'd for it. Now this reaſon, I think, is not for Depoſing the King, and refuſing to treat with him, and yet this rea<g ref="char:EOLhyphen"/>ſon eternally holds for all Sovereign Princes, if all Powers be the Ordinance of God, and the Mini<g ref="char:EOLhyphen"/>ſters of God. But then the motive or encouragement to Obedience is, that they are <hi>the Miniſters of God to thee for good,</hi> which is generally true, as moral Motives are, and if they fail in any in<g ref="char:EOLhyphen"/>ſtance, our Motive to Obedience is loſt, but not the reaſon of it; for if we were excuſed from eve<g ref="char:EOLhyphen"/>ry Duty, when any Motive to the Duty fails, eſpecially ſuch Motives as concern preſent and ſenſible Advantages; there are few Duties of Religion, which would always oblige us. It is a good Mo<g ref="char:EOLhyphen"/>tive to Temperance, Sobriety, and Chaſtity, that theſe Virtues preſerve our health, and increaſe our Eſtates, but I hope, our obligation to theſe Virtues don't ceaſe, when it is for our health to Fornicate, or gives us great Advantages in our Trade, to drink with drunken Cuſtomers; this is all he has to ſay, why the King is no King; and thoſe who can be ſatisfied with this, may be his Diſciples.</p>
+            <p>The ſum of his next Section is, <hi>p.</hi> 4. That the King attempted <hi>the Subverſion of our Government and Laws;</hi> Suppoſe that, <hi>then Nature teaches a ſhort way of reaſoning, to forget that one is their Governor, when they clearly ſee, that he intends to turn their Deſtroyer:</hi> Grant this too, that Nature will teach Men to reſiſt unjuſt Violence; and ſuppoſe that this will juſtifie what has hither<g ref="char:EOLhyphen"/>to been done, what is this to what ſome Men are now a doing? When this illegal Power is broken by the glorious undertaking of the Prince of <hi>Orange,</hi> and we may have all juſt Securities, that it ſhall never hurt us more: Is this any reaſon againſt treating with the King, who is our King ſtill, and may be our Governor without any danger of being our Deſtroyer?</p>
+            <p>But there is an untoward Maxim in our Law, which greatly troubles him, that <hi>the King can do no wrong;</hi> for if this be true, it is a demonſtration by our Law, that the King can never forfeit his Crown, unleſs he may be depoſed without doing any wrong: To get rid of this, he tells us, <hi>p.</hi> 11. <hi>the meaning of it is only this, that the King's Power cannot go ſo far as to ſupport him in the do<g ref="char:EOLhyphen"/>ing any Injuſtice or Wrong to any</hi>; that is, the meaning of <hi>the King can do no wrong,</hi> is not, that he can do no wrong, but that if he do wrong, he ſhall be as accountable for it, as any of his Subjects, which is a great priviledg Kings have. This he proves from the Examples of <hi>Ed.</hi> 2. and <hi>Rich.</hi> 2. <hi>Who were judged in Parliament for Mal-adminiſtration, and ſince theſe Judgments were never vacated by any ſubſequent Parliaments, theſe Proceedings are a part of our Law.</hi> I ſhall not trouble you with an account of theſe particular Stories, which are wide enough from our Caſe. But ſuppoſe what he, would have: Have ſuch Practices as theſe never been condemned? No Laws ever made againſt the like Practices? Yet he dares not ſay, nay confeſſes the contrary; but yet, as long as the Proceedings remain upon record, they are good Preſidents, and juſtifie our right to defend our ſelves in extreme neceſſity; as if it were not enough to make a Law againſt ſuch Practices, without an expreſs condemnation of all contrary Proceedings in former times? As if the contrary Proceedings of former Ages could juſtifie us in the breach of expreſs Laws now.</p>
+            <p>But to return to our Maxim; Our Law is not ſo abſurd as to ſuppoſe, that it is impoſſible for a King to command perſwade, ſolicit his Miniſters to do any unjuſt and illegal thing; but the King does nothing himſelf, but by his Miniſters, and they can plead the King's Authority no further than his Laws, and therefore muſt take no notice of his illegal Deſires, and if they do, not the King, but they are accountable for it, which ſets him above the judgment of his Subjects, and for that reaſon makes his Miniſters anſwerable for all Abuſes; and therefore the Prince of <hi>Orange</hi> laid all the fault upon Miniſters and evil Counſellors, which he grants was matter of decency in the Prince, but I think is ſomewhat more; for whatever Prince hopes to ſet upon the <hi>Engliſh</hi> Throne, is concerned to preſerve the Majeſty of Kings ſacred and inviolable; but he will not allow the repreſentation of the Kingdom to be ſo tender, <hi>but to lay the blame where it ought to be laid,</hi> he means on the King himſelf; and yet, had not his Miniſters complied, there had been no blame to have been laid any where, for there had been no hurt done, and therefore I think the blame ought to be laid on them.</p>
+            <p>Another rub in his way, is the Oath of Supremacy and Allegiance, and againſt taking Arms againſt the King, <hi>pag.</hi> 9. but he ſays, <hi>the end and deſign of theſe Oaths was to ſecure us againſt the danger of Popery,</hi> to ſecure the King's Perſon, Crown, and Dignity (he ſhould ſay) both againſt Popiſh and Proteſtant Treaſons; but they are made <hi>to a Prince that ſubſiſts upon Law,</hi> that is a legal Prince, and ſo King <hi>James</hi> II. is, and that <hi>rules by Law,</hi> that is, to ſupport his legal Crown, and Dignity, and this is all we plead for; we do not ſwear to maintain his illegal Uſurpations, and therefore are not bound to fight in ſuch a Cauſe; but we ſwear to defend his legal Dignity and Power, and therefore are abſolutely bound not to take away what the Law gives him, and there<g ref="char:EOLhyphen"/>fore
+<pb n="3" facs="tcp:34634:2"/>can never take away his Crown. The Matrimonial Oath indeed for Life, does not oblige in caſe of Adultery, becauſe Chriſt himſelf has allowed that to be a juſt cauſe of Divorce, and when he can ſhew me any Law of God, or of our Country, which upon any cauſe diſſolves our Allegiance to the King, I will allow that to be an exception from the Oath of Allegiance; but till he has done this, he is a little too haſty to talk of the next Heir, and then, I doubt, his Law of Nations about a Femme Covert will not concern a Sovereign Princeſs, who is no Femme Covert (which is a Name of Subjection) in her Politick capacity. The deſcent of the Crown muſt be governed by the Laws of the Land; and both <hi>England</hi> and <hi>Scotland</hi> know no ſuch Law, that the Husband to the Queen Regent muſt enjoy all her Political Rights, and therefore her Regal Power and Crown; for a Queen Regent's Husband may be a Subject: but our Author is all of a piece, underſtands Na<g ref="char:EOLhyphen"/>ture and Religion, Laws and Politicks all alike. In the next place, let us conſider how he proves that K. <hi>James</hi> II. ceaſes to be our King: he has, I confeſs, a good Argument to prove that if we ſet him aſide we ought not to allow him the Title of King, (<hi>p.</hi> 7.) leſt if People be uſed to call him King, they ſhould in time think they ought to obey him, and call him home again; and I believe he gueſſes pretty right: but as for proving him to be no King, he dares not ſtick to any one Plea, but makes a kind of accumulative Treaſon of it.</p>
+            <p>Sometimes his withdrawing his Perſon and Seals is a giving up the Government, (<hi>p.</hi> 5.) as if Intermiſſion of Government were a total giving up a Right, ſo that he cannot claim it again if he returns; and yet he grants, in caſe of preſent danger and juſt fear, this ought not to be preſſed too far; but then it is indecent to ſuppoſe Kings can be ſubject to fear, that is, we muſt not ſup<g ref="char:EOLhyphen"/>poſe them to be Men; for if they are, Fear is a human Paſſion. Well, but he had no juſt cauſe of fear: I won't diſpute that; but ſuppoſe he was afraid without juſt cauſe, does not fear ſtill make the Action involuntary, and ſave the forfeiture of the Crown; and if it does, what difference is there between his firſt and ſecond withdrawing? for it ſeems he apprehends that there was more juſt cauſe of fear the ſecond time, and therefore will not lay the Accuſation there, but upon his firſt going (<hi>p.</hi> 15.) and yet it is a probable Argument he was afraid at firſt, becauſe Kings don't uſe of forſake their Kingdoms without fear.</p>
+            <p>But what need of pretending the King's going away, if his Subverſion of the Government and Laws diſſolved the Government? (<hi>p.</hi> 5.) for it ſeems he was no King before he went, nor to be look'd on as a King, but a Deſtroyer; ſo that whether he had gone or ſtayed, the thing had been the ſame: but if the King can do no wrong, he can never forfeit his Crown by Mal-adminiſtra<g ref="char:EOLhyphen"/>tion; at leaſt an <hi>ipſo facto</hi> forfeiture was never heard of in Kings; it is more reaſonable to bring him to a Tryal, than to judge and condemn and depoſe him, without hearing, which is thought hard uſage for a Subject; this our Author inſinuates in the Caſe of <hi>Edw.</hi> II. and <hi>Rich.</hi> II. but the miſchief is, they know not how to frame the Indictment, where to find Judges, and his Peers to try him; which is an Argument our Law knows nothing of Trying Kings, becauſe it has made no proviſion for it.</p>
+            <p>Well, but it ſeems he never was King, for he lay under a diſability from the beginning, as being a Papiſt, (<hi>p.</hi> 14.) What, before any Law is made to exclude Papiſts from Succeſſion to the Crown? What is fitting to be done, or what may be done, to prevent the like miſchiefs for the future, I ſhall leave to wiſer Heads; but no Man in his Wits will ſay, as things are now, that a Papiſt cannot be King of <hi>England.</hi>
+            </p>
+            <p>In the next place, let us conſider his Arguments againſt treating with the King, and I ſhall pick them up, and reduce them into as good order as I can.</p>
+            <p n="1">1. That we muſt not treat with him; but if he be our King ſtill, <hi>we muſt only ask his Par<g ref="char:EOLhyphen"/>don for what is paſt, without entring upon any previous Treaty, or preſuming to offer any Arti<g ref="char:EOLhyphen"/>cles to him,</hi> (p. 6.) I pray, why ſo? Had the King never gone away, might not the Parliament have treated with him to reſtore things to their old legal bottom? And why may they not do ſo now? eſpecially ſince the Prince, who is no Subject of <hi>England,</hi> out of his generous care of our Religion and Liberties, came to demand a Treaty, and it cannot be expected by the King that he ſhould quietly go away again without it; which is an advantage we owe to the Providence of God, and to the Care and Conduct of the Prince, for which we can never be ſufficiently thankful.</p>
+            <p n="2">2. Another Argument is, That <hi>any diminution of the Regal Authority, impoſed upon the King, as the condition upon which only he can be admitted, is as real a breach of the Oath of Allegi<g ref="char:EOLhyphen"/>ance as a total ſhaking him off;</hi> (p. 10.) But not ſo <hi>great</hi> a breach, by his favour. Now <hi>ſince we can have no legal Parliament without ſwearing firſt the Oath of Allegiance to the King, it
+<pb n="4" facs="tcp:34634:3"/>is a ſcorn put on God and Religion if one ſwear this Oath to the King after he is reduced to that naked ſtate to which theſe Treaters pretend to bring him,</hi> (p. 11.) But now ſuppoſe theſe Treaters do not intend to reduce the King to ſuch a naked ſtate, nor to diminiſh his Legal Autho<g ref="char:EOLhyphen"/>rity, I hope there is no hurt in it then: and yet this is all they deſire, not to ſtrip the Crown of any Legal Authority, but to reduce the King within the bounds of Law, and to have ſecurity from him that he ſhall not exceed theſe bounds.</p>
+            <p n="3">3. This you'll ſay were ſomewhat indeed; but that is the great Objection of all, That the King can give no ſecurity to govern by Law, (p. 8, 9.) <hi>His Promiſes and Oaths are very inſig<g ref="char:EOLhyphen"/>nificant, when Popery is in the other Scale.</hi> Then to pleaſe him, we won't take Oaths and Pro<g ref="char:EOLhyphen"/>miſes for ſecurity: well, but no <hi>Limitation by Law</hi> will do neither, witneſs <hi>the Teſt Act which was broke through by a Diſpenſing Power.</hi> But if this Power of Diſpenſing be regulated, or con<g ref="char:EOLhyphen"/>demned by Act of Parliament, I hope that Objection is gone: but all ſuch Limitations muſt be <hi>a diſheriſon of the Crown, which are null and void of themſelves:</hi> It may be, that, as it has been applied, is as good Law as the Diſpenſing Power, and may have the ſame fate with it; but if you take away no Legal Authority, there can be no diſheriſon of the Crown: how to do this I won't pretend to direct, the Wiſdom of a Parliament will eaſily find that out; and if ſuch Laws may be made as will ſecure us, and execute themſelves, I think we are ſafe. In ſhort, the ſum of this Argument is, that a Parliament it ſelf can do nothing for our ſecurity without depoſing the King; and yet the whole Nation thought they could, and deſired no greater ſecurity than a Parliament, that had free Liberty to make Laws, could give them; and the Prince himſelf thought this would do, and therefore deſires no more in his Declaration.</p>
+            <p>And yet he is at this again, particularly with reference to the Tryal of the Prince of <hi>Wales,</hi> which he thinks cannot be done by a Parliament, if we treat with the King: but the Prince was contented to leave that alſo to a Parliament; and all his Arguments againſt it are only ſo many ſcandalous Libels againſt one of the moſt Auguſt Aſſemblies in the World, (<hi>p.</hi> 12, 13.) And it is a hard caſe, that a King muſt be firſt Depoſed, that they may afterwards try the Cauſe for which they Depoſe him.</p>
+            <p n="4">4. Another Argument againſt Treating with the King, is, <hi>That the Nation can have no Se<g ref="char:EOLhyphen"/>curity by Law, either for what is done or for what may remain yet to be done, but by Acts paſſed by King, Lords, and Commons;</hi> and it is unmerciful to keep Men in ſuſpence ſo long for a Par<g ref="char:EOLhyphen"/>don; that is, The King muſt be Depoſed without Treating, that he may have no power ever to hurt; but for his comfort I can tell him, the King's Pardon under the Broad Seal is good in Law, at leaſt againſt himſelf, or any one elſe but a Parliament; and when a Parliament ſits, this may be paſſed into an Act, and to be ſure will be, ſince the Nation is ſo much concerned, and the Prince preſent to ſee it done: and if this will not ſatisfie our Enquirer, yet I think few, beſides him, will think it an Objection.</p>
+            <p>Some other things he ſays, which are not worth notice. Sometimes he is afraid, that after all their Talk of Treating with the King, they ſhould bring him in without Terms, (<hi>p.</hi> 8, 9.) which is well gueſſed, when ſo many Men are concerned to have terms, and the Prince is here to demand them. At other times he is afraid, that while Men talk of a Treaty, Peoples minds ſhould alter, and they ſhould be in good earneſt for bringing back the King; and let him lear on by my conſent, I do not deſire to anſwer that Argument: but the vileſt Inſinuation is, as if the Talk of a Treaty were only a Ceremony and Complement to part with the King more decently, and ſays well, That <hi>it is more ſutable to the Dignity and Wiſdom of the Nation to act frankly and above-board, than to think to varniſh it over with ſome outward Appearances;</hi> and I am very much of his mind upon this Suppoſition, but hope the Treaters are honeſter Men.</p>
+            <p>In his Concluſion he gives a Bit and a Knock to ſome great Men of our Church; commends them for their Zeal againſt Popery, but thinks it a blemiſh to them that they are ſo obſtinate in their Loyalty. I believe, they take it for no great Complement to be commended at the end of ſuch a Pamphlet; and as much as he thinks Nature prevails over them not to own an Error, I dare undertake for thoſe of them I know, for I can eaſily gueſs whom he means, that they will be ready to recant all they have writ for Submiſſion to Princes, when he can anſwer half of it.</p>
+            <closer>
+               <signed>
+                  <hi>I am, SIR,</hi> YOURS.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
